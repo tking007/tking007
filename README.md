@@ -33,7 +33,7 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| [高考志愿填报辅助系统](https://github.com/tking007/hugging_face_test) | Django、Qwen、Text-to-SQL、推荐算法与智能问答的综合学习项目。 |
+| [AI 高考志愿填报辅助系统](https://github.com/tking007/ai-college-admission-assistant) | Django、Qwen、Text-to-SQL、推荐算法与智能问答的综合学习项目。 |
 | [NLQ to SQL](https://github.com/tking007/hugging_face_tes_02) | 自然语言查询到 SQL 的实验与 Notebook 记录。 |
 | [天气预测可视化](https://github.com/tking007/pre_weather_flask) | 基于 Python、scikit-learn 和 Flask 的天气预测可视化实践。 |
 | [读书计划](https://github.com/tking007/read_book_plan) | 阅读与长期学习记录。 |
