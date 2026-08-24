@@ -56,12 +56,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
-## GitHub 数据
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tking007&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="tking007 GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tking007&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="tking007 most used languages">
-</p>
+## 开源足迹
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tking007/tking007/output/github-contribution-grid-snake-dark.svg">
